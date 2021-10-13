@@ -1,1 +1,1 @@
-# C95-house
+# C89-class
